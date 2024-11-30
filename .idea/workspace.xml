@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6949228-fa87-4d2f-a4c3-7bbb43a875ea" name="Changes" comment="" />
+    <list default="true" id="c6949228-fa87-4d2f-a4c3-7bbb43a875ea" name="Changes" comment="STARTING NEW PROJECT, SET UP VENV" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +22,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -41,6 +42,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732990764066</updated>
     </task>
+    <task id="LOCAL-00001" summary="STARTING NEW PROJECT, SET UP VENV">
+      <option name="closed" value="true" />
+      <created>1732991095674</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732991095674</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="STARTING NEW PROJECT, SET UP VENV" />
+    <option name="LAST_COMMIT_MESSAGE" value="STARTING NEW PROJECT, SET UP VENV" />
   </component>
 </project>
